@@ -1,0 +1,17 @@
+.classe1 ul {
+  background-color: purple;
+}
+.classe1 li {
+  background-color: bisque;
+}
+.classe1 button {
+  background-color: brown;
+  color: white;
+}
+.classe1 button:hover {
+  background-color: tomato;
+  color: white;
+  transition: 500ms;
+}
+
+/*# sourceMappingURL=style.css.map */

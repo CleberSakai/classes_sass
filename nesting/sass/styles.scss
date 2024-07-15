@@ -1,0 +1,21 @@
+.classe1 {
+    ul {
+        background-color: purple;
+    }
+
+    li {
+        background-color: bisque;
+    }
+
+    button {
+        background-color: brown;
+        color: white;
+
+        &:hover {
+            background-color: tomato;
+            color: white;
+            transition: 500ms;
+        }
+    }
+
+}
